@@ -1,1 +1,1 @@
-checking git repository
+checking git repository for aemworkshop
